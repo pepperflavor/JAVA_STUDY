@@ -2,7 +2,7 @@
 자바 공부하기
 
 
-basic
+###basic
 ---------------------------------------------------------------
 자동 타입 형변환 - OperationsPromotionExample
 강제 타입 형변환 - CastingExample
